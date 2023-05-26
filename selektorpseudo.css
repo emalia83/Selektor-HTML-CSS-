@@ -1,0 +1,8 @@
+a:hover {
+    color: green;
+  }
+
+p:nth-child(10):first-line {
+  /* Gaya yang ingin diterapkan pada elemen ke-5 dan baris pertama dari elemen <p> */
+    color: magenta;
+  }
